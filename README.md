@@ -17,8 +17,9 @@ If you find this work useful, please consider citing our paper:
   year={2024}
 }
 
-# Watch video https://m.youtube.com/watch?v=lJVYIVtsLso
 
-# Comparison with the fundamental diagrams generated using traditional ways
+## Watch video https://m.youtube.com/watch?v=lJVYIVtsLso
+
+## Comparison with the fundamental diagrams generated using traditional ways
 ![Diagram](Animation/txplot.png)
 ![Diagram](Animation/FD.png)
