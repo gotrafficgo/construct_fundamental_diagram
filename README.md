@@ -16,7 +16,7 @@ If you find this work useful, please consider citing our paper:
 > [arXiv:2507.09648](https://arxiv.org/abs/2507.09648)
 
 ```bibtex
-@article{he2024constructing,
+@article{he2025constructing,
   title={Constructing the fundamental diagrams of traffic flow from large-scale vehicle trajectory data},
   author={He, Zhengbing and Wu, Cathy},
   journal={arXiv preprint arXiv:2507.09648},
