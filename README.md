@@ -20,5 +20,5 @@ If you find this work useful, please consider citing our paper:
   title={Constructing the fundamental diagrams of traffic flow from large-scale vehicle trajectory data},
   author={He, Zhengbing and Wu, Cathy},
   journal={arXiv preprint arXiv:2507.09648},
-  year={2024}
+  year={2025}
 }
