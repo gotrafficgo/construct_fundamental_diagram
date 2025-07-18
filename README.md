@@ -15,7 +15,7 @@
 
 
 
-## 📄 Input Data Format
+# Input Data Format
 
 The input file should be in CSV format, with each row corresponds to a trajectory data point. The file contains **4 columns** as described below:
 
@@ -28,7 +28,7 @@ The input file should be in CSV format, with each row corresponds to a trajector
 
 
 
-# 📄 Citation
+# Citation
 
 If you find this work useful, please consider citing our paper:
 
