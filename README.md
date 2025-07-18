@@ -15,6 +15,19 @@
 
 
 
+## 📄 Input Data Format
+
+The input file should be in CSV format, with each row corresponds to a trajectory data point. The file contains **4 columns** as described below:
+
+| Column | Name       | Unit      | Description                           |
+|--------|------------|-----------|---------------------------------------|
+| 1      | Vehicle ID | –         | Unique identifier for each vehicle    |
+| 2      | Time       | s         | Timestamp in seconds                  |
+| 3      | Location   | m         | Position along the road in meters     |
+| 4      | Speed      | km/h      | Vehicle speed                         |
+
+
+
 # 📄 Citation
 
 If you find this work useful, please consider citing our paper:
