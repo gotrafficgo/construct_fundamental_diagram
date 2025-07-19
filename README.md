@@ -29,7 +29,7 @@ The input file should be in CSV format, with each row corresponds to a trajector
 
 | Column | Name       | Unit      | Description                           |
 |--------|------------|-----------|---------------------------------------|
-| 1      | Vehicle ID | –         | Unique identifier for each vehicle    |
+| 1      | Vehicle ID | –         | Unique ID for each vehicle    |
 | 2      | Time       | s         | Timestamp in seconds                  |
 | 3      | Location   | m         | Position along the road in meters     |
 | 4      | Speed      | km/h      | Vehicle speed                         |
