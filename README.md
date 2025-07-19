@@ -20,7 +20,7 @@ An open-source tool is developed and released to support both researchers and pr
 
 
 
-# Input Data Format
+# Input Trajectory Data Format
 
 The input file should be in CSV format, with each row corresponds to a trajectory data point. The file contains **4 columns** as described below:
 
