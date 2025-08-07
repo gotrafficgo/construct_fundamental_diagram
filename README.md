@@ -16,7 +16,7 @@ An open-source tool is developed and released to support both researchers and pr
 
 
 
-# Comparison with the fundamental diagrams generated using traditional ways
+## Comparison with the fundamental diagrams generated using traditional ways
 ![Diagram](Animation/txplot.png)
 ![Diagram](Animation/FD.png)
 
@@ -36,7 +36,7 @@ The input file should be in CSV format, with each row corresponds to a trajector
 
 
 
-# Citation
+## Citation
 
 If you find this work useful, please consider citing our paper:
 
