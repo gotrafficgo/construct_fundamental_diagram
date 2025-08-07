@@ -13,11 +13,10 @@ An open-source tool is developed and released to support both researchers and pr
 
 **[Video] https://m.youtube.com/watch?v=lJVYIVtsLso**
 
-
+![Diagram](Animation/txplot.png)
 
 
 ## Comparison with traditional ways
-![Diagram](Animation/txplot.png)
 ![Diagram](Animation/FD.png)
 
 
