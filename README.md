@@ -16,7 +16,7 @@ An open-source tool is developed and released to support both researchers and pr
 
 
 
-## Comparison with the fundamental diagrams generated using traditional ways
+## Comparison with traditional ways
 ![Diagram](Animation/txplot.png)
 ![Diagram](Animation/FD.png)
 
