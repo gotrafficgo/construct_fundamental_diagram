@@ -20,6 +20,9 @@ An open-source tool is developed and released to support both researchers and pr
 ![Diagram](Animation/FD.png)
 
 
+## Code
+I am proud to have developed the code in both **Matlab** and **Python**, and the two versions essentially implement the same functionality.
+You need to unzip the data and place them into the folder 'trajectory_data'.
 
 
 ## Input Trajectory Data Format
