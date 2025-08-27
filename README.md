@@ -22,7 +22,8 @@ An open-source tool is developed and released to support both researchers and pr
 
 ## Code
 I am proud to have developed the code in both **Matlab** and **Python**, and the two versions essentially implement the same functionality.
-You need to unzip the data and place them into the folder 'trajectory_data'.
+Before running the code, you need to unzip the data and place them into the folder 'trajectory_data'.
+You may need to modify the ‘root’ path to match your computer settings.
 
 
 ## Input Trajectory Data Format
